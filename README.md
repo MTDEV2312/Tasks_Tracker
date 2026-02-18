@@ -60,4 +60,4 @@ Cada tarea tiene esta estructura:
 - Los estados validos son: `todo`, `in-progress`, `done`.
 
 ### URL
-https://github.com/MTDEV2312/Tasks_Tracker.git
+https://roadmap.sh/projects/task-tracker

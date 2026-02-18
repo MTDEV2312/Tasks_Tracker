@@ -59,5 +59,5 @@ Cada tarea tiene esta estructura:
 - Si `task.json` no existe, se crea automaticamente al agregar la primera tarea.
 - Los estados validos son: `todo`, `in-progress`, `done`.
 
-### URL
+### project URL
 https://roadmap.sh/projects/task-tracker
